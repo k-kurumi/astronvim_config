@@ -3,5 +3,6 @@ return {
         relativenumber = false,
         clipboard = "",
         virtualedit = "all",
+        wrapscan = false,
     },
 }
