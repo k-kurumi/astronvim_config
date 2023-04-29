@@ -4,5 +4,9 @@ return {
         clipboard = "",
         virtualedit = "all",
         wrapscan = false,
+        -- cmdheight = 1,
+    },
+    g = {
+
     },
 }
