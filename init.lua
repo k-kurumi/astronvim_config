@@ -8,5 +8,10 @@ return {
                 require("nvim-surround").setup({})
             end
         },
+        {
+            "tpope/vim-fugitive",
+            version = "*",
+            event = "VeryLazy",
+        },
     },
 }
