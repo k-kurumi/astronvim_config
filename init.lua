@@ -1,5 +1,5 @@
 return {
-    colorscheme = "catppuccin",
+    colorscheme = "melange",
 
     plugins = {
         {
@@ -21,6 +21,9 @@ return {
             config = function()
               require("catppuccin").setup {}
             end,
+        },
+        {
+            "savq/melange-nvim",
         },
     },
 }
