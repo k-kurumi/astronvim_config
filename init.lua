@@ -25,5 +25,9 @@ return {
         {
             "savq/melange-nvim",
         },
+        {
+            "subnut/nvim-ghost.nvim",
+            lazy = false,
+        },
     },
 }
